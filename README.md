@@ -4,7 +4,7 @@ This project is building a show link generator for OBS.Ninja using [AWS Honeycod
 
 https://docs.google.com/spreadsheets/d/1RjFc53tkGkNMcempiJ0ytCKa5tMlqR4GgNBqMR7Cbk0/edit?usp=sharing
 
-[screen-shot](ScreenShot2020.png)
+![screen-shot](ScreenShot2020.png)
 
 What features are coming?
 
